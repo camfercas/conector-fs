@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configurations>
+  <ws>
+    <WSAltaProducto>http://localhost/ConectorROWA.NetEnvironment/rest/WSAltaProducto</WSAltaProducto>
+    <WSGraboLog>http://localhost:80/ConectorROWA/rest/WSGraboLog</WSGraboLog>
+    <WSBajaProductoManual>http://localhost/ConectorROWA.NetEnvironment/rest/WSBajaProductoManual</WSBajaProductoManual>
+    <WSConsultarProducto>http://localhost/ConectorROWA.NetEnvironment/rest/WSConsultarProducto</WSConsultarProducto>
+    <WSMovimientoRowa>http://localhost/ConectorROWA.NetEnvironment/rest/WSMovimientoRowa</WSMovimientoRowa>
+    <WSProcesoTareasEnCola>http://localhost/ConectorROWA.NetEnvironment/rest/WSProcesoTareasEnCola</WSProcesoTareasEnCola>
+  </ws>
+  <conexionConfig>
+    <ip>127.0.0.1</ip>
+    <port>9003</port>
+    <subscriberId>100</subscriberId>
+	<logger>1</logger>
+  </conexionConfig>
+</configurations>

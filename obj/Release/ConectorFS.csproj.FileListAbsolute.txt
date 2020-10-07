@@ -1,0 +1,8 @@
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\bin\Release\Newtonsoft.Json.dll
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\obj\Release\ConectorFS.csproj.CoreCompileInputs.cache
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\obj\Release\ConectorFS.csproj.CopyComplete
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\bin\Release\ConectorFS.dll
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\bin\Release\ConectorFS.pdb
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\obj\Release\ConectorFS.csprojAssemblyReference.cache
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\obj\Release\ConectorFS.dll
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\obj\Release\ConectorFS.pdb

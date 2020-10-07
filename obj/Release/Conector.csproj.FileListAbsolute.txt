@@ -1,0 +1,8 @@
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\bin\Release\Conector.dll
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\bin\Release\Conector.pdb
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\bin\Release\Newtonsoft.Json.dll
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\obj\Release\Conector.csprojAssemblyReference.cache
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\obj\Release\Conector.csproj.CoreCompileInputs.cache
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\obj\Release\Conector.csproj.CopyComplete
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\obj\Release\Conector.dll
+C:\Users\cfernandez\Documents\ConsoleApplication1\Conector\obj\Release\Conector.pdb

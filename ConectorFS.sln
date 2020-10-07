@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConectorFS", "ConectorFS.csproj", "{25843E03-AE92-403D-9FEE-06367C6092B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaWaWi", "..\PruebaWaWi.csproj", "{427600CD-8EC1-4386-86E4-E40846E53CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrearConexion", "..\..\CrearConexion\CrearConexion.csproj", "{0A0071F6-EB62-4182-887D-EB7D7ABE014A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25843E03-AE92-403D-9FEE-06367C6092B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25843E03-AE92-403D-9FEE-06367C6092B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25843E03-AE92-403D-9FEE-06367C6092B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25843E03-AE92-403D-9FEE-06367C6092B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427600CD-8EC1-4386-86E4-E40846E53CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427600CD-8EC1-4386-86E4-E40846E53CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427600CD-8EC1-4386-86E4-E40846E53CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427600CD-8EC1-4386-86E4-E40846E53CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0071F6-EB62-4182-887D-EB7D7ABE014A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0071F6-EB62-4182-887D-EB7D7ABE014A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0071F6-EB62-4182-887D-EB7D7ABE014A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0071F6-EB62-4182-887D-EB7D7ABE014A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3190360-CC66-425E-BFE5-D9885644D24B}
+	EndGlobalSection
+EndGlobal
